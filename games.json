@@ -1,99 +1,99 @@
 [
   {
     "id": 1,
-    "naziv": "Dune: Imperium – Uprising",
-    "kategorija": "Strategija",
-    "igraci": [
+    "name": "Dune: Imperium – Uprising",
+    "category": "Strategija",
+    "players": [
       1,
       2,
       3,
       4,
       6
     ],
-    "tezina": "Zahtjevno",
-    "opis": "Izgradnja špila, postavljanje agenata i borba za političku i vojnu prevlast na Arrakisu.",
-    "pravilaPoznata": true,
-    "prosirenja": []
+    "difficulty": "Zahtjevno",
+    "description": "Izgradnja špila, postavljanje agenata i borba za političku i vojnu prevlast na Arrakisu.",
+    "rules_learning": false,
+    "expansions": []
   },
   {
     "id": 2,
-    "naziv": "Mistborn: The Deckbuilding Game",
-    "kategorija": "Kartaška igra",
-    "igraci": [
+    "name": "Mistborn: The Deckbuilding Game",
+    "category": "Kartaška igra",
+    "players": [
       1,
       2,
       3,
       4
     ],
-    "tezina": "Srednje",
-    "opis": "Gradite špil i koristite alomantijske moći spaljivanjem metala. Igrajte natjecateljski ili se zajednički suprotstavite Lordu Vladaru.",
-    "pravilaPoznata": true,
-    "prosirenja": []
+    "difficulty": "Srednje",
+    "description": "Gradite špil i koristite alomantijske moći spaljivanjem metala. Igrajte natjecateljski ili se zajednički suprotstavite Lordu Vladaru.",
+    "rules_learning": false,
+    "expansions": []
   },
   {
     "id": 3,
-    "naziv": "Brass: Birmingham",
-    "kategorija": "Ekonomska strategija",
-    "igraci": [
+    "name": "Brass: Birmingham",
+    "category": "Ekonomska strategija",
+    "players": [
       2,
       3,
       4
     ],
-    "tezina": "Zahtjevno",
-    "opis": "Razvijajte industriju, financirajte poduzeća i gradite prometnu mrežu u vrijeme industrijske revolucije.",
-    "pravilaPoznata": true,
-    "prosirenja": []
+    "difficulty": "Zahtjevno",
+    "description": "Razvijajte industriju, financirajte poduzeća i gradite prometnu mrežu u vrijeme industrijske revolucije.",
+    "rules_learning": false,
+    "expansions": []
   },
   {
     "id": 4,
-    "naziv": "Blood Rage",
-    "kategorija": "Sukob i teritoriji",
-    "igraci": [
+    "name": "Blood Rage",
+    "category": "Sukob i teritoriji",
+    "players": [
       2,
       3,
       4
     ],
-    "tezina": "Srednje",
-    "opis": "Vodite vikinški klan prema slavi kroz odabir karata, osvajanja i borbe prije Ragnaröka.",
-    "pravilaPoznata": true,
-    "prosirenja": []
+    "difficulty": "Srednje",
+    "description": "Vodite vikinški klan prema slavi kroz odabir karata, osvajanja i borbe prije Ragnaröka.",
+    "rules_learning": false,
+    "expansions": []
   },
   {
     "id": 5,
-    "naziv": "Fallout",
-    "kategorija": "Avantura",
-    "igraci": [
+    "name": "Fallout",
+    "category": "Avantura",
+    "players": [
       1,
       2,
       3,
       4
     ],
-    "tezina": "Srednje",
-    "opis": "Istražujte postapokaliptičnu pustoš, razvijajte lika i rješavajte zadatke kroz susrete i odluke.",
-    "pravilaPoznata": false,
-    "prosirenja": []
+    "difficulty": "Srednje",
+    "description": "Istražujte postapokaliptičnu pustoš, razvijajte lika i rješavajte zadatke kroz susrete i odluke.",
+    "rules_learning": true,
+    "expansions": []
   },
   {
     "id": 6,
-    "naziv": "Wingspan",
-    "kategorija": "Strategija",
-    "igraci": [
+    "name": "Wingspan",
+    "category": "Strategija",
+    "players": [
       1,
       2,
       3,
       4,
       5
     ],
-    "tezina": "Srednje",
-    "opis": "Privlačite ptice u staništa i povezujte njihove sposobnosti u sve učinkovitiji sustav akcija.",
-    "pravilaPoznata": true,
-    "prosirenja": []
+    "difficulty": "Srednje",
+    "description": "Privlačite ptice u staništa i povezujte njihove sposobnosti u sve učinkovitiji sustav akcija.",
+    "rules_learning": false,
+    "expansions": []
   },
   {
     "id": 7,
-    "naziv": "This War of Mine",
-    "kategorija": "Kooperativna igra",
-    "igraci": [
+    "name": "This War of Mine",
+    "category": "Kooperativna igra",
+    "players": [
       1,
       2,
       3,
@@ -101,283 +101,283 @@
       5,
       6
     ],
-    "tezina": "Zahtjevno",
-    "opis": "Pomozite civilima preživjeti u opkoljenom gradu uz oskudne resurse i teške moralne odluke.",
-    "pravilaPoznata": true,
-    "prosirenja": []
+    "difficulty": "Zahtjevno",
+    "description": "Pomozite civilima preživjeti u opkoljenom gradu uz oskudne resurse i teške moralne odluke.",
+    "rules_learning": false,
+    "expansions": []
   },
   {
     "id": 8,
-    "naziv": "Terraforming Mars",
-    "kategorija": "Ekonomska strategija",
-    "igraci": [
+    "name": "Terraforming Mars",
+    "category": "Ekonomska strategija",
+    "players": [
       1,
       2,
       3,
       4,
       5
     ],
-    "tezina": "Zahtjevno",
-    "opis": "Razvijajte korporaciju i projekte kojima podižete temperaturu, kisik i oceane na Marsu.",
-    "pravilaPoznata": true,
-    "prosirenja": []
+    "difficulty": "Zahtjevno",
+    "description": "Razvijajte korporaciju i projekte kojima podižete temperaturu, kisik i oceane na Marsu.",
+    "rules_learning": false,
+    "expansions": []
   },
   {
     "id": 9,
-    "naziv": "Cthulhu: Death May Die",
-    "kategorija": "Kooperativna igra",
-    "igraci": [
+    "name": "Cthulhu: Death May Die",
+    "category": "Kooperativna igra",
+    "players": [
       1,
       2,
       3,
       4,
       5
     ],
-    "tezina": "Srednje",
-    "opis": "Zajednički prekidajte obrede, borite se s kultistima i suočite s drevnim užasima.",
-    "pravilaPoznata": true,
-    "prosirenja": [
+    "difficulty": "Srednje",
+    "description": "Zajednički prekidajte obrede, borite se s kultistima i suočite s drevnim užasima.",
+    "rules_learning": false,
+    "expansions": [
       "Cthulhu: Death May Die – Season 2 Expansion",
       "Cthulhu: Death May Die – Yog-Sothoth Expansion"
     ]
   },
   {
     "id": 10,
-    "naziv": "Gloomhaven: Jaws of the Lion",
-    "kategorija": "Kampanja",
-    "igraci": [
+    "name": "Gloomhaven: Jaws of the Lion",
+    "category": "Kampanja",
+    "players": [
       1,
       2,
       3,
       4
     ],
-    "tezina": "Zahtjevno",
-    "opis": "Taktička kooperativna kampanja u kojoj kartama upravljate kretanjem i napadima kroz povezane scenarije.",
-    "pravilaPoznata": true,
-    "prosirenja": []
+    "difficulty": "Zahtjevno",
+    "description": "Taktička kooperativna kampanja u kojoj kartama upravljate kretanjem i napadima kroz povezane scenarije.",
+    "rules_learning": false,
+    "expansions": []
   },
   {
     "id": 11,
-    "naziv": "Inferno",
-    "kategorija": "Ekonomska strategija",
-    "igraci": [
+    "name": "Inferno",
+    "category": "Ekonomska strategija",
+    "players": [
       1,
       2,
       3,
       4
     ],
-    "tezina": "Zahtjevno",
-    "opis": "Povežite spletke u Firenci s vođenjem duša kroz devet krugova Danteova Pakla. Usmjeravajte grešnike i stječite zloglasnost.",
-    "pravilaPoznata": true,
-    "prosirenja": []
+    "difficulty": "Zahtjevno",
+    "description": "Povežite spletke u Firenci s vođenjem duša kroz devet krugova Danteova Pakla. Usmjeravajte grešnike i stječite zloglasnost.",
+    "rules_learning": false,
+    "expansions": []
   },
   {
     "id": 12,
-    "naziv": "Star Wars: Rebellion",
-    "kategorija": "Sukob i teritoriji",
-    "igraci": [
+    "name": "Star Wars: Rebellion",
+    "category": "Sukob i teritoriji",
+    "players": [
       2,
       3,
       4
     ],
-    "tezina": "Zahtjevno",
-    "opis": "Imperij traži skrivenu bazu, dok Pobunjenici izvode misije i prikupljaju potporu u galaktičkom sukobu.",
-    "pravilaPoznata": true,
-    "prosirenja": []
+    "difficulty": "Zahtjevno",
+    "description": "Imperij traži skrivenu bazu, dok Pobunjenici izvode misije i prikupljaju potporu u galaktičkom sukobu.",
+    "rules_learning": false,
+    "expansions": []
   },
   {
     "id": 13,
-    "naziv": "Root",
-    "kategorija": "Sukob i teritoriji",
-    "igraci": [
+    "name": "Root",
+    "category": "Sukob i teritoriji",
+    "players": [
       2,
       3,
       4
     ],
-    "tezina": "Zahtjevno",
-    "opis": "Asimetrične šumske frakcije bore se za prevlast koristeći vlastita pravila i načine bodovanja.",
-    "pravilaPoznata": false,
-    "prosirenja": []
+    "difficulty": "Zahtjevno",
+    "description": "Asimetrične šumske frakcije bore se za prevlast koristeći vlastita pravila i načine bodovanja.",
+    "rules_learning": true,
+    "expansions": []
   },
   {
     "id": 14,
-    "naziv": "A Feast for Odin",
-    "kategorija": "Ekonomska strategija",
-    "igraci": [
+    "name": "A Feast for Odin",
+    "category": "Ekonomska strategija",
+    "players": [
       1,
       2,
       3,
       4
     ],
-    "tezina": "Zahtjevno",
-    "opis": "Postavljajte radnike, trgujte, istražujte i slažite pločice dobara razvijajući vikinško naselje.",
-    "pravilaPoznata": false,
-    "prosirenja": []
+    "difficulty": "Zahtjevno",
+    "description": "Postavljajte radnike, trgujte, istražujte i slažite pločice dobara razvijajući vikinško naselje.",
+    "rules_learning": true,
+    "expansions": []
   },
   {
     "id": 15,
-    "naziv": "Ticket to Ride: Legends of the West",
-    "kategorija": "Legacy / kampanja",
-    "igraci": [
+    "name": "Ticket to Ride: Legends of the West",
+    "category": "Legacy / kampanja",
+    "players": [
       2,
       3,
       4,
       5
     ],
-    "tezina": "Srednje",
-    "opis": "Gradite željezničke rute kroz povezane partije koje donose nove mogućnosti i trajne promjene kampanje.",
-    "pravilaPoznata": false,
-    "prosirenja": []
+    "difficulty": "Srednje",
+    "description": "Gradite željezničke rute kroz povezane partije koje donose nove mogućnosti i trajne promjene kampanje.",
+    "rules_learning": true,
+    "expansions": []
   },
   {
     "id": 16,
-    "naziv": "Ark Nova",
-    "kategorija": "Ekonomska strategija",
-    "igraci": [
+    "name": "Ark Nova",
+    "category": "Ekonomska strategija",
+    "players": [
       1,
       2,
       3,
       4
     ],
-    "tezina": "Zahtjevno",
-    "opis": "Gradite zoološki vrt, smještajte životinje i podupirite zaštitu vrsta pažljivim odabirom akcija.",
-    "pravilaPoznata": true,
-    "prosirenja": []
+    "difficulty": "Zahtjevno",
+    "description": "Gradite zoološki vrt, smještajte životinje i podupirite zaštitu vrsta pažljivim odabirom akcija.",
+    "rules_learning": false,
+    "expansions": []
   },
   {
     "id": 17,
-    "naziv": "The Lord of the Rings: War of the Ring",
-    "kategorija": "Sukob i teritoriji",
-    "igraci": [
+    "name": "The Lord of the Rings: War of the Ring",
+    "category": "Sukob i teritoriji",
+    "players": [
       2,
       3,
       4
     ],
-    "tezina": "Zahtjevno",
-    "opis": "Vodite rat u Međuzemlju dok Prstenova družina pokušava dovršiti svoje opasno putovanje.",
-    "pravilaPoznata": true,
-    "prosirenja": []
+    "difficulty": "Zahtjevno",
+    "description": "Vodite rat u Međuzemlju dok Prstenova družina pokušava dovršiti svoje opasno putovanje.",
+    "rules_learning": false,
+    "expansions": []
   },
   {
     "id": 18,
-    "naziv": "Pandemic Legacy: Season 1",
-    "kategorija": "Legacy / kampanja",
-    "igraci": [
+    "name": "Pandemic Legacy: Season 1",
+    "category": "Legacy / kampanja",
+    "players": [
       2,
       3,
       4
     ],
-    "tezina": "Srednje",
-    "opis": "Zajedno zaustavljajte epidemije u kampanji čije posljedice trajno mijenjaju ploču, likove i pravila.",
-    "pravilaPoznata": false,
-    "prosirenja": []
+    "difficulty": "Srednje",
+    "description": "Zajedno zaustavljajte epidemije u kampanji čije posljedice trajno mijenjaju ploču, likove i pravila.",
+    "rules_learning": true,
+    "expansions": []
   },
   {
     "id": 19,
-    "naziv": "SETI: Search for Extraterrestrial Intelligence",
-    "kategorija": "Ekonomska strategija",
-    "igraci": [
+    "name": "SETI: Search for Extraterrestrial Intelligence",
+    "category": "Ekonomska strategija",
+    "players": [
       1,
       2,
       3,
       4
     ],
-    "tezina": "Zahtjevno",
-    "opis": "Tražite izvanzemaljski život slanjem sondi, obradom podataka i razvojem znanstvenih tehnologija.",
-    "pravilaPoznata": true,
-    "prosirenja": []
+    "difficulty": "Zahtjevno",
+    "description": "Tražite izvanzemaljski život slanjem sondi, obradom podataka i razvojem znanstvenih tehnologija.",
+    "rules_learning": false,
+    "expansions": []
   },
   {
     "id": 20,
-    "naziv": "Lost Ruins of Arnak",
-    "kategorija": "Strategija",
-    "igraci": [
+    "name": "Lost Ruins of Arnak",
+    "category": "Strategija",
+    "players": [
       1,
       2,
       3,
       4
     ],
-    "tezina": "Srednje",
-    "opis": "Spajajte izgradnju špila i postavljanje radnika kako biste istražili ruševine i svladali čuvare.",
-    "pravilaPoznata": true,
-    "prosirenja": []
+    "difficulty": "Srednje",
+    "description": "Spajajte izgradnju špila i postavljanje radnika kako biste istražili ruševine i svladali čuvare.",
+    "rules_learning": false,
+    "expansions": []
   },
   {
     "id": 21,
-    "naziv": "Andromeda’s Edge",
-    "kategorija": "Svemirska strategija",
-    "igraci": [
+    "name": "Andromeda’s Edge",
+    "category": "Svemirska strategija",
+    "players": [
       2,
       3,
       4
     ],
-    "tezina": "Zahtjevno",
-    "opis": "Raspoređujte brodove, razvijajte postaju i natječite se za resurse i tehnologije na rubu galaksije.",
-    "pravilaPoznata": true,
-    "prosirenja": []
+    "difficulty": "Zahtjevno",
+    "description": "Raspoređujte brodove, razvijajte postaju i natječite se za resurse i tehnologije na rubu galaksije.",
+    "rules_learning": false,
+    "expansions": []
   },
   {
     "id": 22,
-    "naziv": "Scythe",
-    "kategorija": "Strategija",
-    "igraci": [
+    "name": "Scythe",
+    "category": "Strategija",
+    "players": [
       1,
       2,
       3,
       4,
       5
     ],
-    "tezina": "Zahtjevno",
-    "opis": "Razvijajte gospodarstvo, širite utjecaj i koristite mechove u alternativnoj povijesti Europe.",
-    "pravilaPoznata": true,
-    "prosirenja": []
+    "difficulty": "Zahtjevno",
+    "description": "Razvijajte gospodarstvo, širite utjecaj i koristite mechove u alternativnoj povijesti Europe.",
+    "rules_learning": false,
+    "expansions": []
   },
   {
     "id": 23,
-    "naziv": "Nemesis: Lockdown",
-    "kategorija": "Preživljavanje",
-    "igraci": [
+    "name": "Nemesis: Lockdown",
+    "category": "Preživljavanje",
+    "players": [
       1,
       2,
       3,
       4,
       5
     ],
-    "tezina": "Zahtjevno",
-    "opis": "Preživite u postrojenju na Marsu uz upravljanje energijom, prijetnje i skrivene interese suigrača.",
-    "pravilaPoznata": true,
-    "prosirenja": []
+    "difficulty": "Zahtjevno",
+    "description": "Preživite u postrojenju na Marsu uz upravljanje energijom, prijetnje i skrivene interese suigrača.",
+    "rules_learning": false,
+    "expansions": []
   },
   {
     "id": 24,
-    "naziv": "Twilight Imperium: Rex",
-    "kategorija": "Sukob i teritoriji",
-    "igraci": [
+    "name": "Twilight Imperium: Rex",
+    "category": "Sukob i teritoriji",
+    "players": [
       3,
       4,
       5,
       6
     ],
-    "tezina": "Zahtjevno",
-    "opis": "Pregovarajte, sklapajte saveze i borite se za Mecatol City u igri Rex: Final Days of an Empire.",
-    "pravilaPoznata": true,
-    "prosirenja": []
+    "difficulty": "Zahtjevno",
+    "description": "Pregovarajte, sklapajte saveze i borite se za Mecatol City u igri Rex: Final Days of an Empire.",
+    "rules_learning": false,
+    "expansions": []
   },
   {
     "id": 25,
-    "naziv": "The Witcher: Old World",
-    "kategorija": "Avantura",
-    "igraci": [
+    "name": "The Witcher: Old World",
+    "category": "Avantura",
+    "players": [
       1,
       2,
       3,
       4,
       5
     ],
-    "tezina": "Srednje",
-    "opis": "Kao vještac istražujte kontinent, razvijajte špil borbenih karata i lovite čudovišta.",
-    "pravilaPoznata": true,
-    "prosirenja": [
+    "difficulty": "Srednje",
+    "description": "Kao vještac istražujte kontinent, razvijajte špil borbenih karata i lovite čudovišta.",
+    "rules_learning": false,
+    "expansions": [
       "Old World – Skellige Expansion",
       "Adventure Pack Expansion",
       "Monster Trail Expansion",
@@ -386,120 +386,120 @@
   },
   {
     "id": 26,
-    "naziv": "Frostpunk",
-    "kategorija": "Kooperativna igra",
-    "igraci": [
+    "name": "Frostpunk",
+    "category": "Kooperativna igra",
+    "players": [
       1,
       2,
       3,
       4
     ],
-    "tezina": "Zahtjevno",
-    "opis": "Zajednički upravljajte gradom u zaleđenom svijetu, održavajte generator i donosite teške društvene odluke.",
-    "pravilaPoznata": false,
-    "prosirenja": []
+    "difficulty": "Zahtjevno",
+    "description": "Zajednički upravljajte gradom u zaleđenom svijetu, održavajte generator i donosite teške društvene odluke.",
+    "rules_learning": true,
+    "expansions": []
   },
   {
     "id": 27,
-    "naziv": "Sleeping Gods",
-    "kategorija": "Kampanja",
-    "igraci": [
+    "name": "Sleeping Gods",
+    "category": "Kampanja",
+    "players": [
       1,
       2,
       3,
       4
     ],
-    "tezina": "Srednje",
-    "opis": "Kao posada parobroda istražujte otvoreni svijet, pratite razgranate priče i zajednički rješavajte izazove.",
-    "pravilaPoznata": false,
-    "prosirenja": []
+    "difficulty": "Srednje",
+    "description": "Kao posada parobroda istražujte otvoreni svijet, pratite razgranate priče i zajednički rješavajte izazove.",
+    "rules_learning": true,
+    "expansions": []
   },
   {
     "id": 28,
-    "naziv": "Everdell",
-    "kategorija": "Strategija",
-    "igraci": [
+    "name": "Everdell",
+    "category": "Strategija",
+    "players": [
       1,
       2,
       3,
       4
     ],
-    "tezina": "Srednje",
-    "opis": "Gradite šumski grad od karata stanovnika i građevina te raspoređujte radnike kroz godišnja doba.",
-    "pravilaPoznata": true,
-    "prosirenja": []
+    "difficulty": "Srednje",
+    "description": "Gradite šumski grad od karata stanovnika i građevina te raspoređujte radnike kroz godišnja doba.",
+    "rules_learning": false,
+    "expansions": []
   },
   {
     "id": 29,
-    "naziv": "Hegemony",
-    "kategorija": "Ekonomska strategija",
-    "igraci": [
+    "name": "Hegemony",
+    "category": "Ekonomska strategija",
+    "players": [
       2,
       3,
       4
     ],
-    "tezina": "Zahtjevno",
-    "opis": "Društvene klase i država nadmeću se i pregovaraju o zakonima, radu, porezima i javnim uslugama.",
-    "pravilaPoznata": false,
-    "prosirenja": []
+    "difficulty": "Zahtjevno",
+    "description": "Društvene klase i država nadmeću se i pregovaraju o zakonima, radu, porezima i javnim uslugama.",
+    "rules_learning": true,
+    "expansions": []
   },
   {
     "id": 30,
-    "naziv": "Twilight Imperium: Fourth Edition",
-    "kategorija": "Svemirska strategija",
-    "igraci": [
+    "name": "Twilight Imperium: Fourth Edition",
+    "category": "Svemirska strategija",
+    "players": [
       3,
       4,
       5,
       6
     ],
-    "tezina": "Zahtjevno",
-    "opis": "Istražujte galaksiju, trgujte, pregovarajte i ratujte kako biste ostvarili ciljeve svoje frakcije.",
-    "pravilaPoznata": true,
-    "prosirenja": []
+    "difficulty": "Zahtjevno",
+    "description": "Istražujte galaksiju, trgujte, pregovarajte i ratujte kako biste ostvarili ciljeve svoje frakcije.",
+    "rules_learning": false,
+    "expansions": []
   },
   {
     "id": 31,
-    "naziv": "Castles of Burgundy",
-    "kategorija": "Strategija",
-    "igraci": [
+    "name": "Castles of Burgundy",
+    "category": "Strategija",
+    "players": [
       2,
       3,
       4
     ],
-    "tezina": "Srednje",
-    "opis": "Razvijajte kneževinu postavljanjem pločica i pretvarajte rezultate kockica u učinkovite kombinacije akcija.",
-    "pravilaPoznata": false,
-    "prosirenja": []
+    "difficulty": "Srednje",
+    "description": "Razvijajte kneževinu postavljanjem pločica i pretvarajte rezultate kockica u učinkovite kombinacije akcija.",
+    "rules_learning": true,
+    "expansions": []
   },
   {
     "id": 32,
-    "naziv": "Spirit Island",
-    "kategorija": "Kooperativna igra",
-    "igraci": [
+    "name": "Spirit Island",
+    "category": "Kooperativna igra",
+    "players": [
       1,
       2,
       3,
       4
     ],
-    "tezina": "Zahtjevno",
-    "opis": "Kao otočni duhovi usklađujte moći i zajedno branite otok od kolonizatora.",
-    "pravilaPoznata": true,
-    "prosirenja": []
+    "difficulty": "Zahtjevno",
+    "description": "Kao otočni duhovi usklađujte moći i zajedno branite otok od kolonizatora.",
+    "rules_learning": false,
+    "expansions": []
   },
   {
     "id": 33,
-    "naziv": "Darkest Doom",
-    "kategorija": "Avantura",
-    "igraci": [
+    "name": "Darkest Doom",
+    "category": "Avantura",
+    "players": [
       1,
       2,
       3,
       4
     ],
-    "tezina": "Zahtjevno",
-    "opis": "Mračna fantasy strategija s RPG elementima u kojoj istražujete Betel, razvijate čuvare i suočavate se sa sukobima i odlukama.",
-    "pravilaPoznata": false,
-    "prosirenja": []
+    "difficulty": "Zahtjevno",
+    "description": "Mračna fantasy strategija s RPG elementima u kojoj istražujete Betel, razvijate čuvare i suočavate se sa sukobima i odlukama.",
+    "rules_learning": true,
+    "expansions": []
   }
 ]
