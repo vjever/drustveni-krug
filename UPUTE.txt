@@ -1,23 +1,27 @@
-DRUŠTVENI KRUG — KOMPLETNA STRANICA
+DRUŠTVENI KRUG — KOMPLETNA AŽURIRANA STRANICA
 
-Datoteke: index.html, igre.html, dogadaji.html, kontakt.html, style.css, games.js, games.json.
-Kopiraj svih sedam datoteka u glavnu mapu repozitorija, uz zamjenu istoimenih datoteka. Stari igre.css više se ne koristi i može ostati ili se ukloniti.
+Kopiraj svih sedam web-datoteka u glavnu mapu repozitorija, uz zamjenu istoimenih datoteka:
+index.html, igre.html, dogadaji.html, kontakt.html, style.css, games.js, games.json.
+UPUTE.txt ne moraš objaviti. Stari igre.css više se ne koristi.
 
-Ovo je ponovno sastavljen komplet u usklađenom tamnom dizajnu, ne identična kopija svih ranijih HTML datoteka. Lažni kontakti i neprovjereni tjedni događaji iz starog predloška zamijenjeni su mjestima za unos i obavijesti o najavi termina.
-Prije javne objave u kontakt.html unesi stvarne kontaktne podatke i poveznice. Nema forme koja automatski šalje poruke ni administracijskog sučelja.
+Izmjene:
+- Uklonjen okvir s objašnjenjem oznake Pravila još učimo na stranici Naše igre.
+- Uklonjen filter poznavanja pravila. Oznake uz deset odgovarajućih igara ostaju.
+- Dodani adresa Put malog Balana 6, 21000 Trogir i e-mail gordan.belas@gmail.com.
+- Nema društvenih mreža ni privremenih kontaktnih podataka.
+- Dodan Twilight Imperium: Fourth Edition, subota 21.11.2026. u 14:00, na adresi udruge.
+- Sačuvane 33 igre i 6 proširenja.
 
-Zbirka: 33 osnovne igre, 6 proširenja, 10 oznaka Pravila još učimo.
-Mistborn: The Deckbuilding Game i Inferno su potvrđeni korisnikovim poveznicama. Slavs and Cards uklonjen.
-Podaci su u games.json; kategorije i broj igrača automatski oblikuju filtere. Težine su uredničke, ne službene ocjene. Brojeve igrača provjeri prema vlastitim izdanjima i proširenjima prije najave događaja.
-
-Objava iz lokalne mape repozitorija:
+Objava iz lokalnog repozitorija:
 git add index.html igre.html dogadaji.html kontakt.html style.css games.js games.json
-git commit -m "Azurirana kompletna stranica Drustveni krug"
+git commit -m "Azurirani kontakt, dogadjaj i filteri igara"
 git push
 
-Ako je GitHub Pages već postavljen na main i / (root), nije ga potrebno ponovno postavljati.
-
+GitHub Pages ostaje podešen na main i / (root).
+Kontakt koristi mailto: poveznice, ne poslužitelj za slanje poruka.
 Za lokalni pregled s instaliranim Pythonom:
 python -m http.server 8000
 Otvori http://localhost:8000
-HTML otvoren dvoklikom možda neće učitati JSON zbog sigurnosnih ograničenja preglednika.
+
+Igre uređuj u games.json. Kategorije i broj igrača u filterima izvode se iz podataka.
+Težine su uredničke procjene, a ne službene ocjene.
