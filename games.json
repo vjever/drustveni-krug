@@ -1,0 +1,146 @@
+[
+  {
+    "naziv": "Catan",
+    "kategorija": "Strategija",
+    "igraci": [
+      3,
+      4
+    ],
+    "trajanje": "60–120 min",
+    "tezina": "Srednje",
+    "opis": "Izgradnja naselja, trgovina i razvoj resursa.",
+    "dostupna": true
+  },
+  {
+    "naziv": "Carcassonne",
+    "kategorija": "Strategija",
+    "igraci": [
+      2,
+      5
+    ],
+    "trajanje": "35–45 min",
+    "tezina": "Lagano",
+    "opis": "Gradnja pejzaža polaganjem kartica i postavljanjem meeplova.",
+    "dostupna": true
+  },
+  {
+    "naziv": "Azul",
+    "kategorija": "Abstract",
+    "igraci": [
+      2,
+      4
+    ],
+    "trajanje": "30–45 min",
+    "tezina": "Lagano",
+    "opis": "Sakupljanje keramike i izrada najljepšeg zida.",
+    "dostupna": true
+  },
+  {
+    "naziv": "Wingspan",
+    "kategorija": "Strategija",
+    "igraci": [
+      1,
+      5
+    ],
+    "trajanje": "40–70 min",
+    "tezina": "Srednje",
+    "opis": "Izgradnja staništa i privlačenje ptica u svoje utočište.",
+    "dostupna": true
+  },
+  {
+    "naziv": "Terraforming Mars",
+    "kategorija": "Strategija",
+    "igraci": [
+      1,
+      5
+    ],
+    "trajanje": "120–180 min",
+    "tezina": "Zahtjevno",
+    "opis": "Terraformiranje Marsa kroz korporacije, projekte i resurse.",
+    "dostupna": true
+  },
+  {
+    "naziv": "Codenames",
+    "kategorija": "Party",
+    "igraci": [
+      4,
+      8
+    ],
+    "trajanje": "15–30 min",
+    "tezina": "Lagano",
+    "opis": "Timska igra povezivanja riječi kroz kratke asocijacije.",
+    "dostupna": true
+  },
+  {
+    "naziv": "Dixit",
+    "kategorija": "Party",
+    "igraci": [
+      3,
+      6
+    ],
+    "trajanje": "30 min",
+    "tezina": "Lagano",
+    "opis": "Asocijativna igra s ilustracijama i pogadanjem.",
+    "dostupna": true
+  },
+  {
+    "naziv": "Coup",
+    "kategorija": "Kartice",
+    "igraci": [
+      2,
+      6
+    ],
+    "trajanje": "15 min",
+    "tezina": "Lagano",
+    "opis": "Bluff, utjecaj i eliminacija protivnika u dystopijskoj državi.",
+    "dostupna": true
+  },
+  {
+    "naziv": "Love Letter",
+    "kategorija": "Kartice",
+    "igraci": [
+      2,
+      4
+    ],
+    "trajanje": "20 min",
+    "tezina": "Lagano",
+    "opis": "Brza kartaška igra utjecaja, rizika i dedukcije.",
+    "dostupna": true
+  },
+  {
+    "naziv": "7 Wonders",
+    "kategorija": "Strategija",
+    "igraci": [
+      3,
+      7
+    ],
+    "trajanje": "30–45 min",
+    "tezina": "Srednje",
+    "opis": "Razvoj antičke civilizacije kroz tri epohe.",
+    "dostupna": true
+  },
+  {
+    "naziv": "Splendor",
+    "kategorija": "Strategija",
+    "igraci": [
+      2,
+      4
+    ],
+    "trajanje": "30 min",
+    "tezina": "Lagano",
+    "opis": "Sakupljanje dragulja i razvoj rudnika za stjecanje prestiža.",
+    "dostupna": true
+  },
+  {
+    "naziv": "Gloomhaven: Jaws of the Lion",
+    "kategorija": "Kampanja",
+    "igraci": [
+      1,
+      4
+    ],
+    "trajanje": "60–120 min",
+    "tezina": "Zahtjevno",
+    "opis": "Taktička kampanjna igra s likovima, misijama i napredovanjem.",
+    "dostupna": true
+  }
+]
