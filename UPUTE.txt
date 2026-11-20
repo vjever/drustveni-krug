@@ -1,0 +1,23 @@
+DRUŠTVENI KRUG — KOMPLETNA STRANICA
+
+Datoteke: index.html, igre.html, dogadaji.html, kontakt.html, style.css, games.js, games.json.
+Kopiraj svih sedam datoteka u glavnu mapu repozitorija, uz zamjenu istoimenih datoteka. Stari igre.css više se ne koristi i može ostati ili se ukloniti.
+
+Ovo je ponovno sastavljen komplet u usklađenom tamnom dizajnu, ne identična kopija svih ranijih HTML datoteka. Lažni kontakti i neprovjereni tjedni događaji iz starog predloška zamijenjeni su mjestima za unos i obavijesti o najavi termina.
+Prije javne objave u kontakt.html unesi stvarne kontaktne podatke i poveznice. Nema forme koja automatski šalje poruke ni administracijskog sučelja.
+
+Zbirka: 33 osnovne igre, 6 proširenja, 10 oznaka Pravila još učimo.
+Mistborn: The Deckbuilding Game i Inferno su potvrđeni korisnikovim poveznicama. Slavs and Cards uklonjen.
+Podaci su u games.json; kategorije i broj igrača automatski oblikuju filtere. Težine su uredničke, ne službene ocjene. Brojeve igrača provjeri prema vlastitim izdanjima i proširenjima prije najave događaja.
+
+Objava iz lokalne mape repozitorija:
+git add index.html igre.html dogadaji.html kontakt.html style.css games.js games.json
+git commit -m "Azurirana kompletna stranica Drustveni krug"
+git push
+
+Ako je GitHub Pages već postavljen na main i / (root), nije ga potrebno ponovno postavljati.
+
+Za lokalni pregled s instaliranim Pythonom:
+python -m http.server 8000
+Otvori http://localhost:8000
+HTML otvoren dvoklikom možda neće učitati JSON zbog sigurnosnih ograničenja preglednika.

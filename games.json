@@ -1,146 +1,505 @@
 [
   {
-    "naziv": "Catan",
+    "id": 1,
+    "naziv": "Dune: Imperium – Uprising",
     "kategorija": "Strategija",
     "igraci": [
+      1,
+      2,
+      3,
+      4,
+      6
+    ],
+    "tezina": "Zahtjevno",
+    "opis": "Izgradnja špila, postavljanje agenata i borba za političku i vojnu prevlast na Arrakisu.",
+    "pravilaPoznata": true,
+    "prosirenja": []
+  },
+  {
+    "id": 2,
+    "naziv": "Mistborn: The Deckbuilding Game",
+    "kategorija": "Kartaška igra",
+    "igraci": [
+      1,
+      2,
       3,
       4
     ],
-    "trajanje": "60–120 min",
     "tezina": "Srednje",
-    "opis": "Izgradnja naselja, trgovina i razvoj resursa.",
-    "dostupna": true
+    "opis": "Gradite špil i koristite alomantijske moći spaljivanjem metala. Igrajte natjecateljski ili se zajednički suprotstavite Lordu Vladaru.",
+    "pravilaPoznata": true,
+    "prosirenja": []
   },
   {
-    "naziv": "Carcassonne",
-    "kategorija": "Strategija",
+    "id": 3,
+    "naziv": "Brass: Birmingham",
+    "kategorija": "Ekonomska strategija",
     "igraci": [
       2,
-      5
-    ],
-    "trajanje": "35–45 min",
-    "tezina": "Lagano",
-    "opis": "Gradnja pejzaža polaganjem kartica i postavljanjem meeplova.",
-    "dostupna": true
-  },
-  {
-    "naziv": "Azul",
-    "kategorija": "Abstract",
-    "igraci": [
-      2,
+      3,
       4
     ],
-    "trajanje": "30–45 min",
-    "tezina": "Lagano",
-    "opis": "Sakupljanje keramike i izrada najljepšeg zida.",
-    "dostupna": true
+    "tezina": "Zahtjevno",
+    "opis": "Razvijajte industriju, financirajte poduzeća i gradite prometnu mrežu u vrijeme industrijske revolucije.",
+    "pravilaPoznata": true,
+    "prosirenja": []
   },
   {
+    "id": 4,
+    "naziv": "Blood Rage",
+    "kategorija": "Sukob i teritoriji",
+    "igraci": [
+      2,
+      3,
+      4
+    ],
+    "tezina": "Srednje",
+    "opis": "Vodite vikinški klan prema slavi kroz odabir karata, osvajanja i borbe prije Ragnaröka.",
+    "pravilaPoznata": true,
+    "prosirenja": []
+  },
+  {
+    "id": 5,
+    "naziv": "Fallout",
+    "kategorija": "Avantura",
+    "igraci": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "tezina": "Srednje",
+    "opis": "Istražujte postapokaliptičnu pustoš, razvijajte lika i rješavajte zadatke kroz susrete i odluke.",
+    "pravilaPoznata": false,
+    "prosirenja": []
+  },
+  {
+    "id": 6,
     "naziv": "Wingspan",
     "kategorija": "Strategija",
     "igraci": [
       1,
+      2,
+      3,
+      4,
       5
     ],
-    "trajanje": "40–70 min",
     "tezina": "Srednje",
-    "opis": "Izgradnja staništa i privlačenje ptica u svoje utočište.",
-    "dostupna": true
+    "opis": "Privlačite ptice u staništa i povezujte njihove sposobnosti u sve učinkovitiji sustav akcija.",
+    "pravilaPoznata": true,
+    "prosirenja": []
   },
   {
-    "naziv": "Terraforming Mars",
-    "kategorija": "Strategija",
+    "id": 7,
+    "naziv": "This War of Mine",
+    "kategorija": "Kooperativna igra",
     "igraci": [
       1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "tezina": "Zahtjevno",
+    "opis": "Pomozite civilima preživjeti u opkoljenom gradu uz oskudne resurse i teške moralne odluke.",
+    "pravilaPoznata": true,
+    "prosirenja": []
+  },
+  {
+    "id": 8,
+    "naziv": "Terraforming Mars",
+    "kategorija": "Ekonomska strategija",
+    "igraci": [
+      1,
+      2,
+      3,
+      4,
       5
     ],
-    "trajanje": "120–180 min",
     "tezina": "Zahtjevno",
-    "opis": "Terraformiranje Marsa kroz korporacije, projekte i resurse.",
-    "dostupna": true
+    "opis": "Razvijajte korporaciju i projekte kojima podižete temperaturu, kisik i oceane na Marsu.",
+    "pravilaPoznata": true,
+    "prosirenja": []
   },
   {
-    "naziv": "Codenames",
-    "kategorija": "Party",
+    "id": 9,
+    "naziv": "Cthulhu: Death May Die",
+    "kategorija": "Kooperativna igra",
     "igraci": [
+      1,
+      2,
+      3,
       4,
-      8
+      5
     ],
-    "trajanje": "15–30 min",
-    "tezina": "Lagano",
-    "opis": "Timska igra povezivanja riječi kroz kratke asocijacije.",
-    "dostupna": true
-  },
-  {
-    "naziv": "Dixit",
-    "kategorija": "Party",
-    "igraci": [
-      3,
-      6
-    ],
-    "trajanje": "30 min",
-    "tezina": "Lagano",
-    "opis": "Asocijativna igra s ilustracijama i pogadanjem.",
-    "dostupna": true
-  },
-  {
-    "naziv": "Coup",
-    "kategorija": "Kartice",
-    "igraci": [
-      2,
-      6
-    ],
-    "trajanje": "15 min",
-    "tezina": "Lagano",
-    "opis": "Bluff, utjecaj i eliminacija protivnika u dystopijskoj državi.",
-    "dostupna": true
-  },
-  {
-    "naziv": "Love Letter",
-    "kategorija": "Kartice",
-    "igraci": [
-      2,
-      4
-    ],
-    "trajanje": "20 min",
-    "tezina": "Lagano",
-    "opis": "Brza kartaška igra utjecaja, rizika i dedukcije.",
-    "dostupna": true
-  },
-  {
-    "naziv": "7 Wonders",
-    "kategorija": "Strategija",
-    "igraci": [
-      3,
-      7
-    ],
-    "trajanje": "30–45 min",
     "tezina": "Srednje",
-    "opis": "Razvoj antičke civilizacije kroz tri epohe.",
-    "dostupna": true
+    "opis": "Zajednički prekidajte obrede, borite se s kultistima i suočite s drevnim užasima.",
+    "pravilaPoznata": true,
+    "prosirenja": [
+      "Cthulhu: Death May Die – Season 2 Expansion",
+      "Cthulhu: Death May Die – Yog-Sothoth Expansion"
+    ]
   },
   {
-    "naziv": "Splendor",
-    "kategorija": "Strategija",
-    "igraci": [
-      2,
-      4
-    ],
-    "trajanje": "30 min",
-    "tezina": "Lagano",
-    "opis": "Sakupljanje dragulja i razvoj rudnika za stjecanje prestiža.",
-    "dostupna": true
-  },
-  {
+    "id": 10,
     "naziv": "Gloomhaven: Jaws of the Lion",
     "kategorija": "Kampanja",
     "igraci": [
       1,
+      2,
+      3,
       4
     ],
-    "trajanje": "60–120 min",
     "tezina": "Zahtjevno",
-    "opis": "Taktička kampanjna igra s likovima, misijama i napredovanjem.",
-    "dostupna": true
+    "opis": "Taktička kooperativna kampanja u kojoj kartama upravljate kretanjem i napadima kroz povezane scenarije.",
+    "pravilaPoznata": true,
+    "prosirenja": []
+  },
+  {
+    "id": 11,
+    "naziv": "Inferno",
+    "kategorija": "Ekonomska strategija",
+    "igraci": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "tezina": "Zahtjevno",
+    "opis": "Povežite spletke u Firenci s vođenjem duša kroz devet krugova Danteova Pakla. Usmjeravajte grešnike i stječite zloglasnost.",
+    "pravilaPoznata": true,
+    "prosirenja": []
+  },
+  {
+    "id": 12,
+    "naziv": "Star Wars: Rebellion",
+    "kategorija": "Sukob i teritoriji",
+    "igraci": [
+      2,
+      3,
+      4
+    ],
+    "tezina": "Zahtjevno",
+    "opis": "Imperij traži skrivenu bazu, dok Pobunjenici izvode misije i prikupljaju potporu u galaktičkom sukobu.",
+    "pravilaPoznata": true,
+    "prosirenja": []
+  },
+  {
+    "id": 13,
+    "naziv": "Root",
+    "kategorija": "Sukob i teritoriji",
+    "igraci": [
+      2,
+      3,
+      4
+    ],
+    "tezina": "Zahtjevno",
+    "opis": "Asimetrične šumske frakcije bore se za prevlast koristeći vlastita pravila i načine bodovanja.",
+    "pravilaPoznata": false,
+    "prosirenja": []
+  },
+  {
+    "id": 14,
+    "naziv": "A Feast for Odin",
+    "kategorija": "Ekonomska strategija",
+    "igraci": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "tezina": "Zahtjevno",
+    "opis": "Postavljajte radnike, trgujte, istražujte i slažite pločice dobara razvijajući vikinško naselje.",
+    "pravilaPoznata": false,
+    "prosirenja": []
+  },
+  {
+    "id": 15,
+    "naziv": "Ticket to Ride: Legends of the West",
+    "kategorija": "Legacy / kampanja",
+    "igraci": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "tezina": "Srednje",
+    "opis": "Gradite željezničke rute kroz povezane partije koje donose nove mogućnosti i trajne promjene kampanje.",
+    "pravilaPoznata": false,
+    "prosirenja": []
+  },
+  {
+    "id": 16,
+    "naziv": "Ark Nova",
+    "kategorija": "Ekonomska strategija",
+    "igraci": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "tezina": "Zahtjevno",
+    "opis": "Gradite zoološki vrt, smještajte životinje i podupirite zaštitu vrsta pažljivim odabirom akcija.",
+    "pravilaPoznata": true,
+    "prosirenja": []
+  },
+  {
+    "id": 17,
+    "naziv": "The Lord of the Rings: War of the Ring",
+    "kategorija": "Sukob i teritoriji",
+    "igraci": [
+      2,
+      3,
+      4
+    ],
+    "tezina": "Zahtjevno",
+    "opis": "Vodite rat u Međuzemlju dok Prstenova družina pokušava dovršiti svoje opasno putovanje.",
+    "pravilaPoznata": true,
+    "prosirenja": []
+  },
+  {
+    "id": 18,
+    "naziv": "Pandemic Legacy: Season 1",
+    "kategorija": "Legacy / kampanja",
+    "igraci": [
+      2,
+      3,
+      4
+    ],
+    "tezina": "Srednje",
+    "opis": "Zajedno zaustavljajte epidemije u kampanji čije posljedice trajno mijenjaju ploču, likove i pravila.",
+    "pravilaPoznata": false,
+    "prosirenja": []
+  },
+  {
+    "id": 19,
+    "naziv": "SETI: Search for Extraterrestrial Intelligence",
+    "kategorija": "Ekonomska strategija",
+    "igraci": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "tezina": "Zahtjevno",
+    "opis": "Tražite izvanzemaljski život slanjem sondi, obradom podataka i razvojem znanstvenih tehnologija.",
+    "pravilaPoznata": true,
+    "prosirenja": []
+  },
+  {
+    "id": 20,
+    "naziv": "Lost Ruins of Arnak",
+    "kategorija": "Strategija",
+    "igraci": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "tezina": "Srednje",
+    "opis": "Spajajte izgradnju špila i postavljanje radnika kako biste istražili ruševine i svladali čuvare.",
+    "pravilaPoznata": true,
+    "prosirenja": []
+  },
+  {
+    "id": 21,
+    "naziv": "Andromeda’s Edge",
+    "kategorija": "Svemirska strategija",
+    "igraci": [
+      2,
+      3,
+      4
+    ],
+    "tezina": "Zahtjevno",
+    "opis": "Raspoređujte brodove, razvijajte postaju i natječite se za resurse i tehnologije na rubu galaksije.",
+    "pravilaPoznata": true,
+    "prosirenja": []
+  },
+  {
+    "id": 22,
+    "naziv": "Scythe",
+    "kategorija": "Strategija",
+    "igraci": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "tezina": "Zahtjevno",
+    "opis": "Razvijajte gospodarstvo, širite utjecaj i koristite mechove u alternativnoj povijesti Europe.",
+    "pravilaPoznata": true,
+    "prosirenja": []
+  },
+  {
+    "id": 23,
+    "naziv": "Nemesis: Lockdown",
+    "kategorija": "Preživljavanje",
+    "igraci": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "tezina": "Zahtjevno",
+    "opis": "Preživite u postrojenju na Marsu uz upravljanje energijom, prijetnje i skrivene interese suigrača.",
+    "pravilaPoznata": true,
+    "prosirenja": []
+  },
+  {
+    "id": 24,
+    "naziv": "Twilight Imperium: Rex",
+    "kategorija": "Sukob i teritoriji",
+    "igraci": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "tezina": "Zahtjevno",
+    "opis": "Pregovarajte, sklapajte saveze i borite se za Mecatol City u igri Rex: Final Days of an Empire.",
+    "pravilaPoznata": true,
+    "prosirenja": []
+  },
+  {
+    "id": 25,
+    "naziv": "The Witcher: Old World",
+    "kategorija": "Avantura",
+    "igraci": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "tezina": "Srednje",
+    "opis": "Kao vještac istražujte kontinent, razvijajte špil borbenih karata i lovite čudovišta.",
+    "pravilaPoznata": true,
+    "prosirenja": [
+      "Old World – Skellige Expansion",
+      "Adventure Pack Expansion",
+      "Monster Trail Expansion",
+      "Legendary Hunt Expansion"
+    ]
+  },
+  {
+    "id": 26,
+    "naziv": "Frostpunk",
+    "kategorija": "Kooperativna igra",
+    "igraci": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "tezina": "Zahtjevno",
+    "opis": "Zajednički upravljajte gradom u zaleđenom svijetu, održavajte generator i donosite teške društvene odluke.",
+    "pravilaPoznata": false,
+    "prosirenja": []
+  },
+  {
+    "id": 27,
+    "naziv": "Sleeping Gods",
+    "kategorija": "Kampanja",
+    "igraci": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "tezina": "Srednje",
+    "opis": "Kao posada parobroda istražujte otvoreni svijet, pratite razgranate priče i zajednički rješavajte izazove.",
+    "pravilaPoznata": false,
+    "prosirenja": []
+  },
+  {
+    "id": 28,
+    "naziv": "Everdell",
+    "kategorija": "Strategija",
+    "igraci": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "tezina": "Srednje",
+    "opis": "Gradite šumski grad od karata stanovnika i građevina te raspoređujte radnike kroz godišnja doba.",
+    "pravilaPoznata": true,
+    "prosirenja": []
+  },
+  {
+    "id": 29,
+    "naziv": "Hegemony",
+    "kategorija": "Ekonomska strategija",
+    "igraci": [
+      2,
+      3,
+      4
+    ],
+    "tezina": "Zahtjevno",
+    "opis": "Društvene klase i država nadmeću se i pregovaraju o zakonima, radu, porezima i javnim uslugama.",
+    "pravilaPoznata": false,
+    "prosirenja": []
+  },
+  {
+    "id": 30,
+    "naziv": "Twilight Imperium: Fourth Edition",
+    "kategorija": "Svemirska strategija",
+    "igraci": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "tezina": "Zahtjevno",
+    "opis": "Istražujte galaksiju, trgujte, pregovarajte i ratujte kako biste ostvarili ciljeve svoje frakcije.",
+    "pravilaPoznata": true,
+    "prosirenja": []
+  },
+  {
+    "id": 31,
+    "naziv": "Castles of Burgundy",
+    "kategorija": "Strategija",
+    "igraci": [
+      2,
+      3,
+      4
+    ],
+    "tezina": "Srednje",
+    "opis": "Razvijajte kneževinu postavljanjem pločica i pretvarajte rezultate kockica u učinkovite kombinacije akcija.",
+    "pravilaPoznata": false,
+    "prosirenja": []
+  },
+  {
+    "id": 32,
+    "naziv": "Spirit Island",
+    "kategorija": "Kooperativna igra",
+    "igraci": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "tezina": "Zahtjevno",
+    "opis": "Kao otočni duhovi usklađujte moći i zajedno branite otok od kolonizatora.",
+    "pravilaPoznata": true,
+    "prosirenja": []
+  },
+  {
+    "id": 33,
+    "naziv": "Darkest Doom",
+    "kategorija": "Avantura",
+    "igraci": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "tezina": "Zahtjevno",
+    "opis": "Mračna fantasy strategija s RPG elementima u kojoj istražujete Betel, razvijate čuvare i suočavate se sa sukobima i odlukama.",
+    "pravilaPoznata": false,
+    "prosirenja": []
   }
 ]
